@@ -18,25 +18,25 @@ class MainActivity : AppCompatActivity() {
 
         val superheroList = listOf<Superhero>(
             Superhero(
-                R.drawable.antman,
-                "Ant-Man",
+                R.drawable.ayam,
+                "Ayam Nasi",
                 "lorem lipsum lorem lipsum lorem lipsum lorem lipsum"
             ),
             Superhero(
-                R.drawable.batman,
-                "Batman Kelelawar",
+                R.drawable.burger,
+                "Burger Minuman",
                 "lorem lipsum lorem lipsum lorem lipsum"
             ),
-            Superhero(R.drawable.spiderman,
-                "Ultimate Spiderman",
+            Superhero(R.drawable.cocacola,
+                "Cocacola Frestea",
                 "lorem lipsum lorem lipsum lorem lipsum"
             ),
-            Superhero(R.drawable.ironman,
-                "Ironman Strange",
+            Superhero(R.drawable.eskrim,
+                "Escrim",
                 "lorem lipsum lorem lipsum lorem lipsum"
             ),
-            Superhero(R.drawable.captain,
-                "Ultimate Spiderman",
+            Superhero(R.drawable.floats,
+                "Escrim Float",
                 "lorem lipsum lorem lipsum lorem lipsum"
             )
         )
